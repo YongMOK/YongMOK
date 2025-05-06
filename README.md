@@ -1,6 +1,6 @@
 # 👋 Hello, I'm **Yong MOK**  
 
-### 🚀 Data Scientist | AI Enthusiast | École Polytechnique Student  
+### 🚀 Data Scientist Student | AI Enthusiast | École Polytechnique Student  
 
 ---
 
@@ -33,14 +33,14 @@
 
 ### 🎓 **Math and Physics Tutor**  
 **Institute of Technology of Cambodia, Phnom Penh**  
-- 📚 Guided students in mastering advanced Math and Physics concepts.  
-- 🏆 Organized targeted sessions to prepare for Polytechnique oral exams.  
+- 📚 Guided 1st students in mastering Math and Physics concepts.  
+- 🏆 Organized targeted sessions to prepare for Institut Polytechnique De Paris oral exams.  
 
 ---
 
 ## 🔬 Research Experience  
 ### **Robustness of High-Dimensional Models**  
-_Center of Applied Mathematics (CMAP)_  
+_Center of Applied Mathematics of École Polytechnique (CMAP)_  
 - 💡 Studied AI model robustness against adversarial attacks like gradient poisoning and label-flipping.  
 - 🔍 Proposed a novel attack strategy to enhance AI security research.  
 
@@ -51,7 +51,7 @@ _Center of Applied Mathematics (CMAP)_
 - Python, C/C++, Java, JavaScript, SQL  
 
 ### 📚 Frameworks & Libraries  
-- NumPy, Pandas, Matplotlib, PyTorch, scikit-learn, Keras  
+- NumPy, Pandas, Matplotlib, PyTorch, scikit-learn, Keras, Spark,...  
 
 ### ⚙️ Tools  
 - GitHub, VS Code, Jira  
@@ -65,27 +65,8 @@ _Center of Applied Mathematics (CMAP)_
 
 ---
 
-## 🌟 Interests  
-- 🤖 **Technology:** Advancing AI and data-driven solutions.  
-- 🏋️ **Sports:** Boxing, volleyball, and staying active.  
-- 🎨 **Hobbies:** Reading academic papers and painting.  
-
----
-
-## 📊 GitHub Stats  
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yongmok&show_icons=true&theme=radical)  
-![GitHub Streak](https://streak-stats.demolab.com/?user=yongmok&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yongmok&layout=compact&theme=radical)  
-
----
 
 ## 🌐 Let’s Connect!  
 - [🌍 LinkedIn](https://linkedin.com/in/yongmok)  
-- [🌌 GitHub](https://github.com/yongmok)  
-- 📧 [Email Me](mailto:yong.mok@polytechnique.edu)  
-
 ---
 
-### ✨ Thank you for visiting my profile!  
-Feel free to explore my repositories and connect. Let’s build something amazing together! 🚀
